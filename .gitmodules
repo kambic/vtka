@@ -1,0 +1,9 @@
+[submodule "extra/python-ffmpeg"]
+	path = extra/python-ffmpeg
+	url = https://github.com/jonghwanhyeon/python-ffmpeg.git
+[submodule "extra/videogrep"]
+	path = extra/videogrep
+	url = https://github.com/antiboredom/videogrep.git
+[submodule "extra/pycaption"]
+	path = extra/pycaption
+	url = https://github.com/pbs/pycaption.git
